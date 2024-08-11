@@ -1,4 +1,4 @@
-# Viewtiful
+# Viewtiful: movie information retrieval system
 
 ## Description
 
